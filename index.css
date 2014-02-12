@@ -1,0 +1,14 @@
+body{
+    font-family: Helvetica, Verdana, sans-serif;
+}
+#container{
+    padding-top: 10em;
+	width: 30em;
+	margin: 0 auto;
+}
+
+#text_name{
+	width: 30em;
+    margin: auto;
+	height: 2em;
+}
